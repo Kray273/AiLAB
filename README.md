@@ -15,3 +15,21 @@ Day88 https://www.notion.so/Day88_EDA_KNN-e3d486198f6c4ddea6add219b1af8128
 Day89 https://www.notion.so/Day89_SVM-f042a041cc4d4063b81ec7b6194985d6
 
 Day90 https://www.notion.so/Day90_DecisionTree-ff9256d86d594364a0b13038dc99c19a
+
+Day91
+
+Day92
+
+Day93
+
+Day94
+
+Day95
+
+Day96
+
+Day97
+
+Day98
+
+Day99
