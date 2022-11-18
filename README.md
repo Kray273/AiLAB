@@ -16,7 +16,7 @@ Day89 https://www.notion.so/Day89_SVM-f042a041cc4d4063b81ec7b6194985d6
 
 Day90 https://www.notion.so/Day90_DecisionTree-ff9256d86d594364a0b13038dc99c19a
 
-Day91
+Day91 https://www.notion.so/Day92_Ensemble-6d955c7a74d145939ea8604b577b0ea0
 
 Day92
 
