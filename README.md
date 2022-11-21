@@ -18,9 +18,9 @@ Day90 https://www.notion.so/Day90_DecisionTree-ff9256d86d594364a0b13038dc99c19a
 
 Day91 https://www.notion.so/Day92_Ensemble-6d955c7a74d145939ea8604b577b0ea0
 
-Day92
+Day92 https://www.notion.so/Day92_Ensemble-6d955c7a74d145939ea8604b577b0ea0
 
-Day93
+Day93 https://www.notion.so/Day93_Clustering-_PCA-_-6899f23954194229b2756fcb09a09da2
 
 Day94
 
